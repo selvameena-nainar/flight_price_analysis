@@ -39,7 +39,7 @@ The dataset consists of the following attributes:
 - Created **Arrival Time Buckets**  
 - Converted `Total_Stops` into numerical values  
 
-### 📈 Exploratory Data Analysis 
+### Exploratory Data Analysis 
 - Studied the relationship between total stops and flight prices  
 - Examined the impact of departure time on pricing  
 - Compared weekday and weekend pricing trends  
