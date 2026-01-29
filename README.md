@@ -24,7 +24,7 @@ The dataset consists of the following attributes:
 
 ---
 
-## 🔍 Methodology
+## Methodology
 
 ### Data Cleaning
 - Removed missing and inconsistent values  
